@@ -6,5 +6,8 @@ Name: jolla-ui-configuration-sirius
 Requires:
 - jolla-ambient-z@ICON_RES@
 - ambient-icons-closed-z@ICON_RES@
-Summary: Jolla UI Configuration sirius
 
+# Provide UIs for accounts
+- jolla-settings-accounts-extensions-3rd-party-all 
+
+Summary: Jolla UI Configuration sirius
