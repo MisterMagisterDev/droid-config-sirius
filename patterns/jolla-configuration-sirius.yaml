@@ -26,6 +26,11 @@ Requires:
 - jolla-calendar
 - sailfish-weather
 
+# Preinstalled warehouse
+- harbour-warehouse
+
+# sd-utils for mounting sdcard
+- sd-utils
 
 Summary: Jolla Configuration sirius
 
